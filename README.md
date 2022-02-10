@@ -1,1 +1,1 @@
-This project was created while taking a course on Udemy taught by John Smilga. I created an interactive app that displays tour data on specific locations and gives the user the option of deselcting each tour and then refreshing the page when no more tours are left. I connected to an API.
+This project was created while taking a course on Udemy taught by John Smilga. I created an interactive app that displays tour data on specific locations and gives the user the option of deselecting each tour and then refreshing the page when no more tours are left. I connected to an API.
